@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Jorge Luis<br><br>-👀 Atualmente estou cursando o terceiro periodo de sistemas de informação na ufpi.<br><br>-🌱 Tenho interesse na aréa de engenharia de software,web também pretendo aprender python.<br><br>-📫 Estou focado na linguagem python,mas pretendo aprender me aprofundar em engenharia de software ou Programação web.
+👋 Hi, I’m Jorge Luis<br><br>-👀 Atualmente estou cursando o quarto periodo de sistemas de informação na ufpi.<br><br>-🌱 Tenho interesse na aréa de engenharia de software,web também pretendo aprender python.<br><br>-📫 Estou focado na linguagem python,mas pretendo aprender me aprofundar em engenharia de software ou Programação web.
 
 
 ## 🌐 Socials:

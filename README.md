@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Jorge Luis<br><br>-👀 Atualmente estou cursando o sexto periodo de sistemas de informação na ufpi.<br><br>-🌱 Tenho interesse na aréa de programação web como desenvolvedor backend <br><br>-📫 Estou focado na linguagem c#,e em breve estarei aprendendo o framework .NET.
+👋 Hi, I’m Jorge Luis<br><br>-👀 Atualmente estou cursando o sexto periodo de sistemas de informação na ufpi.<br><br>-🌱 Tenho interesse na aréa de programação web como desenvolvedor backend. <br><br>-📫 Estou focado na linguagem c#,e em breve estarei aprendendo o framework .NET.
 
 
 ## 🌐 Socials:

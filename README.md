@@ -1,6 +1,11 @@
 # 💫 About Me:
-👋 Hi, I’m Jorge Luis<br><br>-👀 Atualmente estou cursando o sexto periodo de sistemas de informação na ufpi.<br><br>-🌱 Tenho interesse na aréa de programação web como desenvolvedor backend.<br><br>-📫 Estou focado na linguagem c#,e em breve estarei aprendendo o framework .NET.
+ Olá, sou Jorge Luis
 
+👀 Atualmente estou cursando o setimo período de Sistemas de Informação na UFPI.
+
+🌱 Tenho interesse na área de desenvolvimento mobile, com foco em Flutter.
+
+📱 Estou me dedicando ao aprendizado de Flutter e ao desenvolvimento de aplicativos móveis.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jorgel089) 
